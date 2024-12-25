@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Build output
+/dist
+
+# IDE settings
+.vscode/
+
+# macOS system files
+.DS_Store
