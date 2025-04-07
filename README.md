@@ -1,2 +1,3 @@
 # Bank System
 bank system is  an organazation system 
+it contain multiple stage and component like...
